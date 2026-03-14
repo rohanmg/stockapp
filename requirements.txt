@@ -1,6 +1,6 @@
 streamlit>=1.32.0
 yfinance>=0.2.37
-tensorflow-cpu==2.15.1
+tensorflow-cpu
 prophet
 plotly>=5.20.0
 pandas>=2.2.0
