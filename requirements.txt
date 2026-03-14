@@ -1,9 +1,9 @@
 streamlit>=1.32.0
 yfinance>=0.2.37
-tensorflow>=2.15.0
-neuralprophet>=0.9.0
+tensorflow-cpu==2.15.1
+prophet
 plotly>=5.20.0
 pandas>=2.2.0
-numpy>=1.26.0
+numpy>=1.24.0,<2.0.0
 scikit-learn>=1.4.0
 requests>=2.31.0
